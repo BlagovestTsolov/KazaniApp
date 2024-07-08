@@ -5,6 +5,10 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KazaniApp", "KazaniApp\KazaniApp.csproj", "{034C3E65-9853-4FC6-90F2-7A210A2E9693}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KazaniApp.Core", "KazaniApp.Core\KazaniApp.Core.csproj", "{D21AC9DF-35A9-4B1A-A544-C06F9E6A16FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KazaniApp.Data", "KazaniApp.Data\KazaniApp.Data.csproj", "{58B1AF3D-D80B-495B-A988-88CCFEA82FE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{034C3E65-9853-4FC6-90F2-7A210A2E9693}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{034C3E65-9853-4FC6-90F2-7A210A2E9693}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{034C3E65-9853-4FC6-90F2-7A210A2E9693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D21AC9DF-35A9-4B1A-A544-C06F9E6A16FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D21AC9DF-35A9-4B1A-A544-C06F9E6A16FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D21AC9DF-35A9-4B1A-A544-C06F9E6A16FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D21AC9DF-35A9-4B1A-A544-C06F9E6A16FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58B1AF3D-D80B-495B-A988-88CCFEA82FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B1AF3D-D80B-495B-A988-88CCFEA82FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B1AF3D-D80B-495B-A988-88CCFEA82FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B1AF3D-D80B-495B-A988-88CCFEA82FE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
